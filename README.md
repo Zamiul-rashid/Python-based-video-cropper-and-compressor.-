@@ -49,7 +49,7 @@ This project is a Python application that allows users to trim and compress vide
 
 ## Contributing
 
-Contributions, issues, and feature requests are welcome. Feel free to check [issues page](https://github.com/yourusername/Python-based-video-cropper-and-compressor/issues) if you want to contribute.
+Contributions, issues, and feature requests are welcome. Feel free to check [issues page](https://github.com/Zamiul-rashid/Python-based-video-cropper-and-compressor.-/issues) if you want to contribute.
 
 ## License
 
